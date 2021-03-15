@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2021 ProgramistaZpolski
+Copyright (c) 2021 ProgramistaZpolski (nie pzpl, nie licensjuj sobi tego)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
